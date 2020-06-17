@@ -271,9 +271,3 @@ uid | int| 10  |false| false |组合主键，标签ID
 - [springboot之redis的整合与使用](http://www.janti.cn/article/springbootredis)
 
 - **以上是我学习springboot总结的一些博客，特此分享**
-
-# 网站地址
-
-  **[www.janti.cn](http://www.janti.cn)**
-
-  **[项目代码](https://github.com/JayTange/Jantent)**
